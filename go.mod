@@ -1,17 +1,14 @@
-module github.com/kerenbenzion/playtika-terraform-provider-drp
+module github.com/kerenbenzion/playtika_terraform_provider
 
 go 1.14
 
 require (
 	github.com/Bowery/prompt v0.0.0-20190916142128-fa8279994f75 // indirect
 	github.com/VictorLowther/jsonpatch2 v1.0.0
-
 	github.com/apparentlymart/go-cidr v1.1.0
 	github.com/apparentlymart/go-dump v0.0.0-20190214190832-042adf3cf4a0
 	github.com/davecgh/go-spew v1.1.1
 	github.com/dchest/safefile v0.0.0-20151022103144-855e8d98f185 // indirect
-	github.com/digitalrebar/logger v1.0.0 // indirect
-	github.com/digitalrebar/store v0.0.0-20190210064419-1ca378d05667 // indirect
 	github.com/elithrar/simple-scrypt v1.3.0 // indirect
 	github.com/go-test/deep v1.0.3
 	github.com/golang/mock v1.4.3
