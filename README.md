@@ -1,0 +1,1 @@
+# playtika_terraform_provider
